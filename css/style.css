@@ -795,6 +795,7 @@ h3.my-profession
         display: block;
         margin-left: 0;
     }
+}
 @media (max-width:1316px){
     .aside{
         left: -270px;
